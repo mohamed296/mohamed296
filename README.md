@@ -1,5 +1,5 @@
 <h1 align="center">Hi there👋, I'm Mohamed Magdy
-</h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=fira+code&amp;pause=1000&amp;color=2FF78D&amp;center=true&amp;vCenter=true&amp;width=435&amp;lines=Weclome+to+Mustafa's+Github!" alt="Typing SVG"></a>
+</h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=fira+code&amp;pause=1000&amp;color=2FF78D&amp;center=true&amp;vCenter=true&amp;width=435&amp;lines=Weclome+to+Mohamed's+Github!" alt="Typing SVG"></a>
 <h3 align="center">Flutter Developer | Mobile app Developer| Software Developer، I'm passionate about building beautiful and high-performance Cross-platform applications
 </h3>
 
@@ -13,17 +13,8 @@
 
 <br>
 
-## 📱 My Flutter Packages:
-
-[![enhanced_paginated_view](https://img.shields.io/badge/enhanced_paginated_view-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)](https://pub.dev/packages/enhanced_paginated_view)  [![easix](https://img.shields.io/badge/easix-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)](https://pub.dev/packages/easix)
-
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/facebook-%230077B5.svg?logo=facebook&logoColor=white)](https://www.facebook.com/mido.magdy.501151?mibextid=ZbWKwL) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-abdelkhaleq)[![Instagram](https://img.shields.io/badge/Instagram-%230077B5.svg?logo=instagram&logoColor=white)](https://instagram.com/mohamed.abd.elkhaleq?igshid=NzZlODBkYWE4Ng==) 
-
-
-
-
-
+[![Facebook](https://img.shields.io/badge/facebook-%230077B5.svg?logo=facebook&logoColor=white)](https://www.facebook.com/mido.magdy.501151?mibextid=ZbWKwL) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-abdelkhaleq) [![Instagram](https://img.shields.io/badge/Instagram-%230077B5.svg?logo=instagram&logoColor=white)](https://instagram.com/mohamed.abd.elkhaleq?igshid=NzZlODBkYWE4Ng==) 
 
 
 # 💻 Tech Stack:
