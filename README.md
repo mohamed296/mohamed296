@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Mohamed Magdy
+<h1 align="center">Hi there👋, I'm Mohamed Abdelkhalek
 </h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=fira+code&amp;pause=1000&amp;color=2FF78D&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=Weclome+to+Mohamed's+Github!" alt="Typing SVG"></a>
 <h3 align="center">Flutter Developer | Mobile app Developer| Software Developer، I'm passionate about building beautiful and high-performance Cross-platform applications
 </h3>
